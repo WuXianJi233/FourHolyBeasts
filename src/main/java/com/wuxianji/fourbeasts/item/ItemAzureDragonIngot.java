@@ -8,8 +8,4 @@ public class ItemAzureDragonIngot extends Item {
     ItemAzureDragonIngot(){
         super(new Properties().group(ItemGroup.TOOLS));
     }
-
-    public void good(){
-        System.out.println("好");
-    }
 }
