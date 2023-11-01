@@ -7,6 +7,6 @@ import net.minecraft.item.ItemGroup;
 public class ItemGroupLogo extends Item {
 
     public ItemGroupLogo(){
-        super(new Properties().group(ItemGroup.MISC));
+        super(new Properties().group(ModGroup.itemGroup));
     }
 }
