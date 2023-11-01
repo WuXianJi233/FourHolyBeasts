@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fourbeasts:block/ore/white_tiger_ore"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fourbeasts:block/ore/black_tortoise_ore"
+  }
+}
