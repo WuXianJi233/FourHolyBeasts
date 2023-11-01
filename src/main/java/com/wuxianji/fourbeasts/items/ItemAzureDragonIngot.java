@@ -1,4 +1,4 @@
-package com.wuxianji.fourbeasts.item;
+package com.wuxianji.fourbeasts.items;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
