@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fourbeasts:item/ingot/black_tortoise_ingot"
+  }
+}

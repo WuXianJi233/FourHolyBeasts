@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "fourbeasts:item/group_logo"
+    "layer0": "fourbeasts:item/group/group_logo"
   }
 }

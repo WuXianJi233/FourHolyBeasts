@@ -2,11 +2,10 @@ package com.wuxianji.fourbeasts.items.ingot;
 
 import com.wuxianji.fourbeasts.group.ModGroup;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 
-public class ItemAzureDragonIngot extends Item {
+public class ItemVermilionBirdIngot extends Item {
 
-    public ItemAzureDragonIngot(){
+    public ItemVermilionBirdIngot(){
         super(new Properties().group(ModGroup.itemGroup));
     }
 }
