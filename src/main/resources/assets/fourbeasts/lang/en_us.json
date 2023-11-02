@@ -1,0 +1,12 @@
+{
+  "item.fourbeasts.group_logo": "logo",
+  "itemGroup.four_holy_beasts_group": "Four Holy Beasts Mod",
+  "item.fourbeasts.azure_dragon_ingot": "AzureDragon Ingot",
+  "item.fourbeasts.vermilion_bird_ingot": "VermilionBird Ingot",
+  "item.fourbeasts.black_tortoise_ingot": "BlackTortoise Ingot",
+  "item.fourbeasts.white_tiger_ingot": "WhiteTiger Ingot",
+  "block.fourbeasts.azure_dragon_ore": "AzureDragon Ore",
+  "block.fourbeasts.vermilion_bird_ore": "VermilionBird Ore",
+  "block.fourbeasts.white_tiger_ore": "WhiteTiger Ore",
+  "block.fourbeasts.black_tortoise_ore": "BlackTortoise Ore"
+}

@@ -1,0 +1,12 @@
+{
+  "item.fourbeasts.group_logo": "logo",
+  "itemGroup.four_holy_beasts_group": "四聖獸模組",
+  "item.fourbeasts.azure_dragon_ingot": "青龍錠",
+  "item.fourbeasts.vermilion_bird_ingot": "朱雀錠",
+  "item.fourbeasts.black_tortoise_ingot": "玄武錠",
+  "item.fourbeasts.white_tiger_ingot": "白虎錠",
+  "block.fourbeasts.azure_dragon_ore": "青龍礦石",
+  "block.fourbeasts.vermilion_bird_ore": "朱雀礦石",
+  "block.fourbeasts.white_tiger_ore": "白虎礦石",
+  "block.fourbeasts.black_tortoise_ore": "玄武礦石"
+}
