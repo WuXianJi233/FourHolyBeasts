@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fourbeasts:vermilion_bird_ore"
+  },
+  "result":"fourbeasts:vermilion_bird_ingot",
+  "experience": 1,
+  "cookingtime": 400
+}
