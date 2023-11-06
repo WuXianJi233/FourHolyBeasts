@@ -8,5 +8,10 @@
   "block.fourbeasts.azure_dragon_ore": "青龙矿石",
   "block.fourbeasts.vermilion_bird_ore": "朱雀矿石",
   "block.fourbeasts.white_tiger_ore": "白虎矿石",
-  "block.fourbeasts.black_tortoise_ore": "玄武矿石"
+  "block.fourbeasts.black_tortoise_ore": "玄武矿石",
+  "attribute.azureDragon": "青龙",
+  "attribute.vermilionBird": "朱雀",
+  "attribute.whiteTiger": "白虎",
+  "attribute.blackTortoise": "玄武",
+  "message.fourHolyBeastsSword.rightClickBurialTime": "冷却时间:%d秒"
 }

@@ -1,0 +1,28 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "fourbeasts:index": 0
+      },
+      "model": "fourbeasts:item/four_holy_beasts_sword_0"
+    },
+    {
+      "predicate": {
+        "fourbeasts:index": 1
+      },
+      "model": "fourbeasts:item/four_holy_beasts_sword_1"
+    },
+    {
+      "predicate": {
+        "fourbeasts:index": 2
+      },
+      "model": "fourbeasts:item/four_holy_beasts_sword_2"
+    },
+    {
+      "predicate": {
+        "fourbeasts:index": 3
+      },
+      "model": "fourbeasts:item/four_holy_beasts_sword_3"
+    }
+  ]
+}

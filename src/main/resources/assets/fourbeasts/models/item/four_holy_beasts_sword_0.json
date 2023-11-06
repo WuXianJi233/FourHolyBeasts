@@ -1,0 +1,6 @@
+{
+  "parent": "fourbeasts:item/handheld",
+  "textures": {
+    "layer0": "fourbeasts:item/weapon/four_holy_beasts_sword_0"
+  }
+}
